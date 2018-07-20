@@ -36,16 +36,16 @@ While we have our own approach to engagements, we understand that there might be
 
 So, we have placed each practice on a visual canvas that include the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community. 
 
-![mobius](/images/mobius_with_foundation.png)
+![mobius](/images/mobius-with-foundation-revised.png)
 
-Practice sit on one of areas of the canvas:
+Practices sit on one of areas of the canvas:
 
 
 1. The "Why" area of the Discovery Loop - Why practices help describe purpose. Why are we doing this? What is the problem we need to solve or idea to pursue? Who are our target customers, and what do they need?
 
 2. The "Outcomes" area of the Discovery Loop - Practices about Outcomes help establish where we want to get to, and how we will measure the customer and business needs are delivered.
 
-3. The Options Pivot - Practice in the Options Pivot help work out what the potential solutions are to deliver the outcomes and define the hypotheses to test, and find the simplest way to achieve the outcome.
+3. The Options Pivot - Practices in the Options area help work out what the potential solutions are to deliver the outcomes and define the hypotheses to test, and find the simplest way to achieve the outcome.
 
 4. The "Deliver" area of the Delivery Loop - Deliver practices provide the validation cycle where we run experiments and deliver solutions to customers.
 
