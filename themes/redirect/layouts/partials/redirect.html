@@ -1,1 +1,10 @@
-Go to {{ .Site.Params.redirect.newBaseURL }}{{ .Permalink | relURL }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting | Open Practice Library</title>
+    <meta http-equiv="refresh" content="0;URL={{ .Site.Params.redirect.newBaseURL }}{{ .Permalink | relURL }}" />
+  </head>
+  <body>
+  </body>
+</html>
