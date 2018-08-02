@@ -1,0 +1,4 @@
+name = "Redirect"
+license = "MIT"
+licenselink = "https://github.com/vimux/blank/blob/master/LICENSE.md"
+description = "Theme to redirect to a new domain."

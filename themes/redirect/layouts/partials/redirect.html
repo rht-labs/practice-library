@@ -1,0 +1,16 @@
+{{ if isset $.Params "newurl" }}
+  {{ .Scratch.Set "destination" $.Params.newurl }}
+{{ else }}
+  {{ .Scratch.Set "destination" (print .Site.Params.redirect.newBaseURL (.Permalink | relURL)) }}
+{{ end }}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting | Open Practice Library</title>
+    <meta http-equiv="refresh" content="0;URL={{ .Scratch.Get "destination" }}" />
+  </head>
+  <body>
+  </body>
+</html>

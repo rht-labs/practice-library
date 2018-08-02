@@ -5,7 +5,7 @@ baseURL = "https://rht-labs.github.io/practice-library/"
 #baseURL = "https://rohitmusti.github.io/practice-library/"
 languageCode = "en-us"
 title = "Open Practice Library"
-theme = "minimo"
+theme = "redirect"
 # Why "docs" and not "public"? https://git.io/vXzj6
 publishDir = "docs"
 canonifyURLs = true
@@ -13,6 +13,10 @@ googleAnalytics = "UA-111461618-1"
 
 [params.assets]
 customCSS = ["css/custom.css"]
+
+[params.redirect]
+# Note: leave out trailing slash
+newBaseURL = "https://openpracticelibrary.com"
 
 [permalinks]
 page = "/:slug/"
