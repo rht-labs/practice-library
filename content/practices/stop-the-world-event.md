@@ -4,6 +4,7 @@ date: 2017-10-26T16:20:14-04:00
 draft: false
 journeys: ['disrupt']
 stages: ['discovery', 'approach']
+newurl: https://openpracticelibrary.com/practice/stop-the-world-event/
 ---
 
 ## What is it?

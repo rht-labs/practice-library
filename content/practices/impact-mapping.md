@@ -3,6 +3,7 @@ date: 2017-09-06T00:00:00-05:00
 title: Impact Mapping
 draft: false
 stages: ['discovery']
+newurl: https://openpracticelibrary.com/practice/impact-mapping/
 ---
 
 ## What is it?
@@ -24,7 +25,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 ## Related Practices
 
-- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts. 
+- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
 
 
 ## Who do you need?
