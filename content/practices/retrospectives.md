@@ -2,6 +2,7 @@
 date: 2017-11-21T00:00:00-05:00
 title: Retrospectives
 draft: false
+newurl: https://openpracticelibrary.com/practice/retrospectives/
 ---
 
 ## What are they?
@@ -63,4 +64,3 @@ There are lots of different formats retrospectives can take (see the references 
 1. ["Agile Retrospectives: Makings Good Teams Great" by Esther Derby and Diana Larsen](http://amzn.eu/is9H7Az)
 2. [Fun Retrospectives](http://www.funretrospectives.com/)
 2. [Retrospective Coaching Cards by Geoff Watts](https://www.amazon.co.uk/Retrospective-Coaching-Cards-Geoff-Watts/dp/0957587473/ref=sr_1_16?ie=UTF8&qid=1523958717&sr=8-16&keywords=retrospectives)
- 

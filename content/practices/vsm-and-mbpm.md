@@ -3,6 +3,7 @@ date: 2017-09-12T00:00:00-05:00
 title: Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM)
 draft: false
 stages: ['discovery', 'approach']
+newurl: https://openpracticelibrary.com/practice/vsm-and-mbpm/
 ---
 
 ## What is it?
@@ -52,8 +53,8 @@ Some teams prefer whiteboards, but the most common approach uses paper and PostI
 
 ## How does it fit?
 
-Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. 
-- The current state map is typically done in the Why area of the Discovery of the Open Practice Library. 
+Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation.
+- The current state map is typically done in the Why area of the Discovery of the Open Practice Library.
 - The future state map is typically done as part of the Outcomes area of the Discoery of the Open Practice Library.
 
 ## Additional Resources

@@ -2,6 +2,7 @@
 title: "Visualisation of Work"
 date: 2018-04-08T21:41:51+01:00
 draft: false
+newurl: https://openpracticelibrary.com/practice/visualisation-of-work/
 ---
 
 ## What is Visualisation of Work?

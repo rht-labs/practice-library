@@ -2,6 +2,7 @@
 title: "Team Sentiment"
 date: 2018-03-31T22:53:43+01:00
 draft: false
+newurl: https://openpracticelibrary.com/practice/team-sentiment/
 ---
 
 
@@ -11,14 +12,14 @@ Team Sentiment practices track the mood of a team and provide a mechanism for te
 
 ## Why use a Team Sentiment pratice?
 
-Team sentiment practices enable problems to be identified, radiated and addressed early. They enable the team to quickly discuss where one or more team members is suddenly troubled by the direction their work is going and can also provide an information radiator to assess the overall team health and feeling. 
+Team sentiment practices enable problems to be identified, radiated and addressed early. They enable the team to quickly discuss where one or more team members is suddenly troubled by the direction their work is going and can also provide an information radiator to assess the overall team health and feeling.
 
-Team sentiment practices are often introduced where there is a strong sense of servant leadership in the working environment. 
+Team sentiment practices are often introduced where there is a strong sense of servant leadership in the working environment.
 
 
 ## Related Practices
 
-Where the team has used the [Social Contract](/practices/social-contract/) practice, team sentiment practices can help enforce some of the feeling radiated in the Social Contract. 
+Where the team has used the [Social Contract](/practices/social-contract/) practice, team sentiment practices can help enforce some of the feeling radiated in the Social Contract.
 
 [Retrospectives](/practices/realtime-retrospective/) are excellent check-points on the team health and taking the opportunity to review the Team Sentiment artefcts can facilitate a team conversation as to how they can improve overall team mood and what has been learned in the recent iteration.
 

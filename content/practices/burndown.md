@@ -2,12 +2,13 @@
 title: "Burndown"
 date: 2018-04-07T23:33:55+01:00
 draft: false
+newurl: https://openpracticelibrary.com/practice/burndown/
 ---
 
 
 ## What is it?
 
-A burndown chart is a visualisation of work left to do within a specified time period. The remaining work (or backlog) is often on the vertical axis, with time along the horizontal. 
+A burndown chart is a visualisation of work left to do within a specified time period. The remaining work (or backlog) is often on the vertical axis, with time along the horizontal.
 
 Teams often use burndown charts to track progress within fixed time periods (for example, Sprint Burndown charts). They can also be used to visualise progress for longer time periods and milestones (for example, Release Burndown charts).
 
@@ -19,7 +20,7 @@ Burndown charts provide real data about a team's velocity and provides a mechani
 
 ## Related Practices
 
-[Retrospectives](/practices/realtime-retrospective/) provide excellent opportunities to review recent burndown charts and to facilitate conversations on what can be learned from the data presented in them. 
+[Retrospectives](/practices/realtime-retrospective/) provide excellent opportunities to review recent burndown charts and to facilitate conversations on what can be learned from the data presented in them.
 
 
 ## Who do you need?

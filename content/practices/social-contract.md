@@ -2,11 +2,12 @@
 date: 2017-11-21T00:00:00-05:00
 title: Social Contract
 draft: false
+newurl: http://openpracticelibrary.com/practice/social-contract/
 ---
 
 ## What is it?
 
-The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders. 
+The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders.
 
 To effectively use this practice you should look to create the following outcomes:
 
