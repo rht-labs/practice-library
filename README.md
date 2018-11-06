@@ -1,3 +1,3 @@
 # Moved
 
-## This Repo has now moved to https://github.com/openpracticelibrary/openpracticelibrary
+## This repo has now moved to https://github.com/openpracticelibrary/openpracticelibrary
